@@ -1,0 +1,12 @@
+.adminUsers_users a {
+  display: block;
+  margin: 0px 0px 20px 0px;
+  font-size: 18px;
+}
+.adminUsers_users a:hover {
+  color: white;
+}
+.user_playlist_songs {
+  font-size: 16px;
+  margin: 0px 0px 20px 0px;
+}

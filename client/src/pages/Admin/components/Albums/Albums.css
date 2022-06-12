@@ -1,0 +1,36 @@
+.albums_row_item_block {
+  width: 170px;
+  height: 140px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #314054;
+  border-radius: 5px;
+}
+.albums_row_item_text {
+  margin: 6.4px 0px 0px 0px;
+}
+.albums_row {
+  margin: 20px 0px 0px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.multiselect-album,
+.rmsc * {
+  background: #314054;
+}
+.addSongToAlbum_options{
+  margin: 15px 0px 0px 0px ;
+  font-size: 18px;
+}
+.addSongToAlbum_songs{
+  margin: 15px 0px 0px 0px ;
+}
+.addSongToAlbum_songs_item{
+  margin: 15px 0px 0px 0px ;
+}
+.deleteSong{
+  margin: 0px 0px 0px 20px ;
+  color: red !important;
+  cursor: pointer;
+}
